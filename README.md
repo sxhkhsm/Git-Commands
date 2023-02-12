@@ -1,5 +1,5 @@
 # Git-Commands
-## Here are Some commonly used Git and GitHub commands with their syntax and brief descriptions, formatted for use in a README file:
+## Here are Some commonly used Git and GitHub commands with their syntax and brief descriptions:
 
 ### git init:
 This command is used to initialize a new Git repository.
